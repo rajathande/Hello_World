@@ -1,1 +1,1 @@
-# Hello_World
+Simple C Project with Makefile
